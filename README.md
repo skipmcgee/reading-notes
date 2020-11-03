@@ -11,7 +11,7 @@
 
 ### Please check out my [main](https://skipmcgee.github.io) GitHub page and my [code](https://github.com/skipmcgee).
 
-### Directory of Code Fellows assignments:
+### Directory listing of Code Fellows assignments:
   - [Initial Learning](/initial_learning.md)
   - To Be Developed
   
