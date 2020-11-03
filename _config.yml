@@ -1,4 +1,4 @@
-etheme: jekyll-theme-slate
+etheme: jekyll-theme-tactile
 title: Code Fellows Assignments
 production_url : https://skipmcgee.github.io/reading-notes/
 author :
@@ -12,11 +12,9 @@ navbar-links:
   - Initial Learning Page: "initial_learning.md"
 include: 
   - README.md
-  - reading-notes/
+  - initial_learning.md
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
 JB :
   BASE_PATH : https://skipmcgee.github.io/reading-notes/
-
-theme: jekyll-theme-tactile
