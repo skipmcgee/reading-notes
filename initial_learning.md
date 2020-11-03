@@ -2,6 +2,8 @@
 
 ### _config.yml
 
+
+
 #### etheme: jekyll-theme-slate
 
 #### title: (insert Title)
@@ -25,6 +27,8 @@
 #### (tab indent) BASE_PATH : (insert the base URL if different from the main repo)
 
 ### README.md
+
+
 
 #### \>(insert quote)
 
