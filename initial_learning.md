@@ -18,7 +18,7 @@ author :
 ####
 include: 
 ####
-"  - (insert any extra files) (Note '"' added to prevent autoformat)
+\- (insert any extra files) 
 ####
 JB :
 ####
@@ -27,24 +27,24 @@ JB :
 ### README.md
 ####
 #### note '"' added to prevent autoformat in the 4 below lines 
-""  >(insert quote)
+\>(insert quote)
 ####
-"# (Number of #'s determines the size)
+\# (Number of #'s determines the size)
 ####
-"## (medium)
+\## (medium)
 ####
-"### (smallest)
+\### (smallest)
 ####
-Lists syntax:   - (insert list item)
+Lists syntax:   \- (insert list item)
 ####
-                - (next list item)
+                \- (next list item)
 ####
-Italics: * (Italics, remove surrounding spaces) *
+Italics: \*(Italics)\*
 ####
-Bold: ** (Bold, remove surrounding spaces **
+Bold: **\(Bold)\**
 ####
-Bold & Italics: *** (Bold & Italics, remove surrounding spaces) ***
+Bold & Italics: \***(Bold & Italics)\***
 ####
-Links with name: [Name] (directory/file)  
+Links with name: [Name]\(directory/file)  
 ####
-Links without name: ![Name] (directory/file)  
+Links without name: ![Name]\(directory/file)  
