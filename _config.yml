@@ -18,3 +18,5 @@ plugins:
   - jekyll-sitemap
 JB :
   BASE_PATH : https://skipmcgee.github.io/reading-notes/
+
+theme: jekyll-theme-tactile
