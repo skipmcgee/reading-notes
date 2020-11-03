@@ -26,7 +26,6 @@ JB :
 ####
 ### README.md
 ####
-#### note '"' added to prevent autoformat in the 4 below lines 
 \>(insert quote)
 ####
 \# (Number of #'s determines the size)
