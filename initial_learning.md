@@ -22,15 +22,13 @@
 
 #### JB :
 
-#### BASE_PATH : (insert the base URL if different from the main repo)
-
-####
+#### (tab indent) BASE_PATH : (insert the base URL if different from the main repo)
 
 ### README.md
 
 #### \>(insert quote)
 
-#### \# (Number of #'s determines the size)
+#### \# (Number of \#'s determines the size)
 
 #### \## (medium)
 
