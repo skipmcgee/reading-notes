@@ -17,6 +17,7 @@
   
 
 ***I would love to get your feedback to improve the quality and caliber of my code!***
+[Forward >>>](initial_learning.md)
 
 ![White Sands, New Mexico](/images/whitesands.jpg)
 
