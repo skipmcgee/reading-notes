@@ -1,8 +1,6 @@
 
 ## *Hello!*
 
-***My name is Skip McGee, I'm learning and developing coding skills!***
-
 ### To me, a "growth mindset" means focusing on continuous improvement. This is a diligent, daily practice that requires internal evaluation and assessment.
 ### Three ways that I can maintain a growth mindset:
   - Active Listening
@@ -18,6 +16,7 @@
   
 
 ***I would love to get your feedback to improve the quality and caliber of my code!***
+
 [Forward >>>](initial_learning.md)
 
 ![White Sands, New Mexico](/images/whitesands.jpg)
