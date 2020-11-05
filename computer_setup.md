@@ -19,6 +19,7 @@ I'm a big vim user. A couple of vim tips (an internet search will turn up more t
 ### Linux basics:
 
 * everything is a file or directory
+* command, option, argument syntax
 
 must-know commands: 
 * cd
@@ -35,8 +36,6 @@ must-know commands:
 * which
 * ps (-ef, -aux for process information display)
 * mv & cp
-
-* command, option, argument syntax
 
 
 [<<< Back](README.md)
