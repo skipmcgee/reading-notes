@@ -1,8 +1,8 @@
 
 ### git setup:
 
-+ git config --global user.name 'Skip McGee'
-+ git config --global user.email 'davidfranklinmcgee@gmail.com'
++ git config --global user.name 'Insert Name'
++ git config --global user.email 'Insert Email'
 + git config --global core.editor "code --wait"
 
 ### Text Editor review
