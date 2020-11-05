@@ -14,7 +14,7 @@
 ### Directory listing for Code 102:
   - [Initial Learning](/initial_learning.md)
   - [Computer Setup](/computer_setup.md)
-  - To Be Developed
+  - [Git Intro](/git_intro.md)
   
 
 ***I would love to get your feedback to improve the quality and caliber of my code!***
