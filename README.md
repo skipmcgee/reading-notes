@@ -1,5 +1,5 @@
 
-## Hello!
+## Hello and welcome to my reading notes!
 
 ### *To me, a "growth mindset" means focusing on continuous improvement. This is a diligent, daily practice that requires internal evaluation and assessment.*
 
