@@ -13,6 +13,7 @@ navbar-links:
 include: 
   - README.md
   - initial_learning.md
+  - computer_setup.md
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
