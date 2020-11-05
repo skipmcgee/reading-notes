@@ -10,7 +10,7 @@
 I'm a big vim user. A couple of vim tips (an internet search will turn up more that you can easily digest):
 
 - :s/[string-to-find]/[string-to-replace]/
-- \/ search
+- / search
 - D (delete current line)
 - [number]dd (deletes number of lines above)
 - 'b' goes to line beginning, 'e' to the end
