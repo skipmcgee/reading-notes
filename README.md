@@ -1,7 +1,8 @@
 
 ## *Hello!*
 
-### To me, a "growth mindset" means focusing on continuous improvement. This is a diligent, daily practice that requires internal evaluation and assessment.
+### *To me, a "growth mindset" means focusing on continuous improvement. This is a diligent, daily practice that requires internal evaluation and assessment.*
+
 ### Three ways that I can maintain a growth mindset:
   - Active Listening
   - Ask frequent, genuine questions
