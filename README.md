@@ -14,9 +14,7 @@
   - [Git Intro](/git_intro.md)
   
 
-#### Please check out my [main](https://skipmcgee.github.io) GitHub page and my [code](https://github.com/skipmcgee). *I would love to get your feedback to improve the quality and caliber of my code!*
-
-                                                              [Forward >>>](initial_learning.md)
+#### Please check out my [main](https://skipmcgee.github.io) GitHub page and my [code](https://github.com/skipmcgee). *I would love to get your feedback to improve the quality and caliber of my code!*                  [Forward >>>](initial_learning.md)
 
 ![White Sands, New Mexico](/images/whitesands.jpg)
 
