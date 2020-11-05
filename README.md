@@ -13,6 +13,7 @@
 
 ### Directory listing for Code 102:
   - [Initial Learning](/initial_learning.md)
+  - [Computer Setup](/computer_setup.md)
   - To Be Developed
   
 
