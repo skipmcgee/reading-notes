@@ -1,5 +1,7 @@
 #### General Notes
-- need index.html file in a GitHub page
+- need index.html file in a GitHub page to render the page
+- run live server in VS Code to see changes in realtime
+- lorem ipsum = word generator for content
 - tags for structural components
 
 #### website construction outline:
