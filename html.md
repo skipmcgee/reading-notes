@@ -50,7 +50,7 @@
 - `<span>` differentiates elements inline
 - `<iframe>` embeds a window into a page
 - `<meta>` element tells search engines about the page, attributes are `<name>` and `<content>` and includes description, keywords, robots, author, pragma (no caching) & expires
-- nofollow precents search engines following the links in the page
+- nofollow prevents search engines following the links in the page
 - escape characters are needed for spectial characters
 
 [<<< Back](README.md)
