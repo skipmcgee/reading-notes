@@ -8,7 +8,7 @@
   - Ask frequent, genuine questions
   - Diligently work to understand, failure to prepare is failure to grow
 
-### Directory listing for Code 102:
+### Directory listing for notes pages:
   - [Initial Learning](/initial_learning.md)
   - [Computer Setup](/computer_setup.md)
   - [Git Intro](/git_intro.md)
