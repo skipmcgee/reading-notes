@@ -14,6 +14,7 @@
   - [Git Intro](/git_intro.md)
   - [HTML Basics](/html.md)
   - [CSS Basics](/css.md)
+  - [Basic Javascript](/basic_javascript.md)
   - My [first webage](https://skipmcgee.github.io/20.2_deployment/)
 
 #### Please check out my [personal](https://skipmcgee.github.io) GitHub page and my [code](https://github.com/skipmcgee). I would love to get your feedback to improve the quality and caliber of my code!  [Forward >>>](initial_learning.md)
