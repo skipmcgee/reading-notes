@@ -1,4 +1,4 @@
-### Notes from on JavaScript:
+### Notes on JavaScript:
 - .js files store behavior-changing javascript
 - separation of concerns: js, html & css in separate files
 - document object represents the entire webpage
