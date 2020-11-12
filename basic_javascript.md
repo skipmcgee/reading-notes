@@ -1,8 +1,4 @@
-### Assignment: 
-- read pg 43-69
-- code do-along pg 46-49 (only do steps 2-6)
-
-### Notes from reading:
+### Notes from on JavaScript:
 - .js files store behavior-changing javascript
 - separation of concerns: js, html & css in separate files
 - document object represents the entire webpage
