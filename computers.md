@@ -8,7 +8,7 @@
 - bit: on/off, yes/no, binary
 - binary postions (multiply by 2 R->L)
 
-### Circuts:
+### Circuits:
 - 'not' reverse signal
 - 'and' if both, then yes
 - 'adder' = sum
