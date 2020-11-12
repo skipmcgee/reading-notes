@@ -14,7 +14,8 @@
   - [Git Intro](/git_intro.md)
   - [HTML Basics](/html.md)
   - [CSS Basics](/css.md)
-  - [Basic Javascript](/basic_javascript.md)
+  - [Basic JavaScript](/basic_javascript.md)
+  - [More JavaScript](/more_javascript.md)
   - [How Computers Work](/computers.md)
   - My [first webage](https://skipmcgee.github.io/20.2_deployment/)
 
