@@ -15,7 +15,7 @@
 - mathematical operatirs rely on order of operations
 - joining strings='concatenation'
 
-### Functions: 88 - 94
+### Functions:
 - 'use strict' at the top of js files
 - functions organize blocks of code based on purpose
 - package a function into a code block
