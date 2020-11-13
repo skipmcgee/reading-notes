@@ -24,6 +24,7 @@
 - difference between parameters / arguments: parameters='variables'; arguements='values'
 - return statement delivers result
 - return can return an array instead of a single value
+- console.log(insert_your_return_expression); assists wth troubleshooting
 
 
 [<<< Back](README.md)
