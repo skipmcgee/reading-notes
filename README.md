@@ -16,6 +16,7 @@
   - [CSS Basics](/css.md)
   - [Basic JavaScript](/basic_javascript.md)
   - [More JavaScript](/more_javascript.md)
+  - [Addt'l JavaScript](/add_javascript.md)
   - [How Computers Work](/computers.md)
   - My [first webage](https://skipmcgee.github.io/20.2_deployment/)
 
