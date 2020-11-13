@@ -16,6 +16,10 @@
 - logical operators process left to right and stop as soon as they have a result
 
 ### For & While loops:
-- 
+- use for to execute a specific number of times
+- use while to execute until a condition is met
+- do while loop runs statements in curly braces at least once
+- loops work great with arrays
+- infinite loops create browser issues
 
 [<<< Back](README.md)
